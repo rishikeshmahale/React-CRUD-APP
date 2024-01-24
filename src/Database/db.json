@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "Hitman",
+      "email": "rohitman@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "King",
+      "email": "Kingkohli@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Shikhar Dhawan",
+      "username": "JattaDaMunda",
+      "email": "shikhar@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Surya Kumar yadav",
+      "username": "Mr 360 Alien",
+      "email": "alien@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Jaspreet Bumrah",
+      "username": "Boom Boom Bumrah",
+      "email": "boomboom@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "username": "Swordsman",
+      "email": "ravindra@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Rishikesh Mahale",
+      "username": "Chiekoo",
+      "email": "rishikeshmahale16@gmail.com",
+      "phone": "07304 108237",
+      "id": 7
+    },
+    {
+      "name": "Mahendra Singh Dhoni",
+      "username": "mahi",
+      "email": "msd@gmail.com",
+      "phone": "0000000000",
+      "id": 8
+    }
+  ]
+}
